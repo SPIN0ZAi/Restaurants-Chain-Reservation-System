@@ -1,7 +1,9 @@
 # 🏙️ Restaurants Chain Reservation System
 
 Welcome to the **Restaurants Chain Reservation System**! This project provides an intuitive and efficient solution for managing restaurant reservations across multiple locations. Whether you're managing a single restaurant or a chain of them, this system makes it easy to handle reservations, customer preferences, and restaurant scheduling.
-
+<p align="center">
+ <img src="https://github.com/SPIN0ZAi/Restaurants-Chain-Reservation-System/blob/master/Screenshot%202025-04-25%20102954.jpg" width="500" alt="RISC-V Smiley Face Output"/>
+</p>
 
 ## 🚀 Introduction
 
