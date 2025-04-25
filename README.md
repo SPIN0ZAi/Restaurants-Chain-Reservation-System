@@ -2,7 +2,7 @@
 
 Welcome to the **Restaurant Chain Reservation System**, a simple yet powerful console-based application built in Java. This system allows customers to easily reserve tables across multiple restaurants in a chain, with features for admins to manage restaurant data efficiently.
 
-![GitHub repo size](https://img.shields.io/https://github.com/SPIN0ZAi/Restaurants-Chain-Reservation-System?style=flat-square)
+![GitHub repo size](https://img.shields.io/github.com/size/SPIN0ZAi/Restaurants-Chain-Reservation-System?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/SPIN0ZAi/Restaurant-Chain-Reservation-System?style=flat-square)
 ![GitHub forks](https://img.shields.io/github/forks/SPIN0ZAi/Restaurant-Chain-Reservation-System?style=flat-square)
 
